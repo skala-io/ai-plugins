@@ -1,0 +1,17 @@
+{
+    "name": "skala-io-plugins",
+    "owner": {
+        "name": "Skala.io",
+        "email": "roman@skala.io",
+        "url": "https://skala.io/"
+    },
+    "plugins": [
+        {
+            "name": "legal-skills",
+            "source": {
+                "source": "github",
+                "repo": "skala-io/legal-skills"
+            }
+        }
+    ]
+}
