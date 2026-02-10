@@ -7,11 +7,12 @@
     },
     "plugins": [
         {
-            "name": "legal-skills",
+            "name": "skala-skills",
             "source": {
                 "source": "github",
                 "repo": "skala-io/legal-skills"
-            }
+            },
+            "description": "Skala.io skills."
         }
     ]
 }
